@@ -1,0 +1,122 @@
+{
+  "version": "1.0",
+  "id": "/",
+  "name": "Mi Bharatiya",
+  "short_name": "Mi Bharatiya",
+  "description": "Mi Bharatiya is an e-Marketplace for Govt. schemes and services. Using Mi Bharatiya you can find various Government schemes, check your eligibility, and apply for the schemes.",
+  "start_url": "/?utm_source=homescreen",
+  "dir": "auto",
+  "lang": "en-US",
+  "orientation": "any",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "icons/favicon.ico",
+      "sizes": "16x16 24x24 32x32 64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icons/android-icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/screen-1.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/screen-2.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/screen-3.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/screen-4.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/screen-5.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Blog",
+      "short_name": "Blog",
+      "description": "Mi Bharatiya is an e-Marketplace for Govt. schemes and services. Using Mi Bharatiya you can find various Government schemes, check your eligibility, and apply for the schemes.",
+      "url": "/search?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Central government schemes",
+      "short_name": "Central government schemes",
+      "description": "Mi Bharatiya is an e-Marketplace for Govt. schemes and services. Using Mi Bharatiya you can find various Government schemes, check your eligibility, and apply for the schemes.",
+      "url": "/search/label/Central-Govt-schemes?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}
